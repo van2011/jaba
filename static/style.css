@@ -1,0 +1,14 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.header{
+width: 1540px;
+height: 80px;
+background-color: blue;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+}
